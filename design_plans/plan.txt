@@ -1,0 +1,63 @@
+Mapy: 1
+Národnosti: 2-3
+Doly: dřevo, kamen, zlato, diamanty, síra, železo, (6)
+	vzálenost k hradu (A*) udává rychlost dovážení surovin
+	dělnici pro zvětšení produkce v dole
+	tabulka zaplacení pro nedostatku peněz
+AI: ne
+Sít: ne
+Hotseat: ano
+Počet různých jednotek: 4
+Hrdina: 
+	4 sloty pro army
+
+	artefakty:
+		head
+		chest
+		boots
+		main hand
+		off hand
+		trinket
+		trinket
+
+	atributy:
+		attack damage
+		deffensive
+		HP
+		talent tree (pro odemykání comb)
+		level
+		expierience
+		luck
+		energy(path energy)
+
+	spells(calls etc..)
+
+combat:
+	příprava na duel mezi hrdiny
+	tilemap
+	comba u jednotek - 2-4 (stojí suroviny)
+	příprava na obranu (zatím nekodit)
+	možnost útěku hrdiny, pokud je nějaká jednotka stále naživu
+	příprava na duel po vyhlazení armády (choose dialog pro víherce)
+
+vylepšení:
+	vojáci:
+		cvičiště(nákup/výcvik jednotek)
+	město:
+		vylepšní v budovách (výzkumy viz. AoE, lukaři => kušečníci etc.)
+
+
+získávání atrib pro hrdinu:
+
+		exp:
+			z bitev
+			knížka(kamenné tabulky/pergamen..)
+			člověk(poutník)
+
+budovy:
+	krčma : luck - inc/dec
+	rozhledna: zobrazení mapy
+	------------OPEN-------------
+
+zvědi na mapě:
+	--------OPEN---------
