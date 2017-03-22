@@ -9,7 +9,7 @@ Sít: ne
 Hotseat: ano
 Počet různých jednotek: 4
 Hrdina: 
-	4 sloty pro army
+	4-5 sloty pro army
 
 	artefakty:
 		head
